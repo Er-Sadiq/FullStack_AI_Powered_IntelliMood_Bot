@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>CHATBOT</pattern>
+        <template>
+            I'm now known as IntelliMood Bot, your mood-related chatbot. How can I assist you today?
+        </template>
+    </category>
+    <category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>
+            I go by the name IntelliMood Bot. How can I help you with your mood-related questions?
+        </template>
+    </category>
+    <!-- Add more patterns related to the new name here -->
+</aiml>

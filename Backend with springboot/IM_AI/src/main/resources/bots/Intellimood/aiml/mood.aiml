@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: mood.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: September 12, 2023 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2023 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>CHATBOT</pattern>
+<template>I'm a mood-related chatbot here to assist you with questions about your mood and well-being. Feel free to ask any mood-related questions, and I'll do my best to help you.</template>
+</category>
+<category><pattern>HOW CAN YOU HELP ME WITH MY MOOD</pattern>
+<template>I can provide information, tips, and suggestions to improve your mood, manage stress, and promote well-being. Just ask, and I'll assist you with any mood-related concerns you have.</template>
+</category>
+<category><pattern>WHAT ARE SOME TIPS FOR IMPROVING MY MOOD</pattern>
+<template>There are several ways to enhance your mood, including practicing mindfulness, staying active, maintaining a healthy diet, and getting enough sleep. If you have a specific mood-related question, feel free to ask!</template>
+</category>
+</aiml>

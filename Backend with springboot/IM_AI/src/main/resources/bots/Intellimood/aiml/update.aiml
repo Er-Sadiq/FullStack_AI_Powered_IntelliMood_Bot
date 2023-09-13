@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: update.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: September 12, 2023 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2023 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>VERSION</pattern>
+<template>IntelliMood-AI AIML Bot version 0.0.4</template>
+</category>
+<category><pattern>BUILD</pattern>
+<template>Tue Sep 12 17:36:49 IST 2023</template>
+</category>
+<category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
+<template>Program AB 0.0.4.0 beta -- AI Foundation Reference AIML 2.0 implementation</template>
+</category>
+</aiml>

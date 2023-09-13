@@ -1,0 +1,2 @@
+0,GREETINGS,*,*,誰もこたえない。呼び鈴がそのあたりにありません？,testjp.aiml
+0,こんにちは,*,*,<srai>GREETINGS</srai>,testjp.aiml
