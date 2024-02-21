@@ -17,3 +17,6 @@ Explore my Full Stack AI-enabled chatbot, designed to seamlessly respond to user
 - REST API for React.js Integration
 - Docker & AWS EC2 Deployment
 - User-friendly Interface
+
+## Preview
+![Login](https://github.com/Er-Sadiq/FullStack_AI_Powered_IntelliMood_Bot/assets/125464939/66a3bcec-2b3c-4997-8f46-e5f0fe9eb375)
