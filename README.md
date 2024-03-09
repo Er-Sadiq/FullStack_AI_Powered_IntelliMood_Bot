@@ -19,4 +19,10 @@ Explore my Full Stack AI-enabled chatbot, designed to seamlessly respond to user
 - User-friendly Interface
 
 ## Preview
-![Login](https://github.com/Er-Sadiq/FullStack_AI_Powered_IntelliMood_Bot/assets/125464939/66a3bcec-2b3c-4997-8f46-e5f0fe9eb375)
+
+![1](https://github.com/Er-Sadiq/FullStack_AI_Powered_IntelliMood_Bot/assets/125464939/2bdb79f5-7022-4fdf-ac58-f5655b96fe93)
+
+![2](https://github.com/Er-Sadiq/FullStack_AI_Powered_IntelliMood_Bot/assets/125464939/138cdce9-7148-4e5d-9efe-17301f297ca3)
+
+
+
